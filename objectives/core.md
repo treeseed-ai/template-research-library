@@ -16,3 +16,4 @@ The Research Template generates reproducible source-backed research projects wit
 
 It remains source-only. Evidence, citations, synthesis, and generated knowledge must be deterministic and verifiable without a service endpoint.
 
+TreeDX is the sole authoring and publication authority for this objective.
